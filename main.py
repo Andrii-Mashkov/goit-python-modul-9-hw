@@ -95,7 +95,7 @@ COMMANDS = {
     change_handler: ["change"],
     phone_handler: ["phone"],
     show_all_handler: ["show all"],
-    exit_handler: ["good bye", "close", "exit", ""],
+    exit_handler: ["good bye", "close", "exit"],
     hello_handler: ["hello"]
 }
 
